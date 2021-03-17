@@ -57,7 +57,7 @@ function videoSearch(key, search, maxResults) {
 <div class="col-lg-6 col-xl-5 pr-lg-5 pb-5">
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/${
-          item.id.videoId}" allowfullscreen></iframe>
+          item.id.videoId}" allowfullscreen frameboarder=0></iframe>
 </div>
 </div>
 <div class="col-lg-6 col-xl-7 pl-lg-5 pb-4">
